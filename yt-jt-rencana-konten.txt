@@ -1,3 +1,5 @@
 RENCANA KONTEN YT JT
 - Python programming vlogs
+  * Recreate game Mario
+  * Membuat face recognition security
 - Short videos
